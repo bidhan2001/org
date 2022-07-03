@@ -55,7 +55,7 @@ footer{
   position: absolute;
   content: '';
   height: 2px;
-  width: 50%;
+  width: 25%;
   background: gold;
   top: -10px;
 }
