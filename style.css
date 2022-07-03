@@ -343,7 +343,7 @@
 
 /***************** SWIPER *******************/
 .mySwiper{
-  background-image: url(img/wk.jpg);
+  background-image: url(wk.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   text-align: center;
@@ -511,7 +511,7 @@
 /* Media Query for Mobile Devices */
 @media (max-width: 480px) {
     body {
-        background-color: red;
+        background-color: white;
     }
     .swiper {
         width: 100%;
