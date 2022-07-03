@@ -512,7 +512,7 @@
 /* Media Query for Mobile Devices */
 @media (max-width: 480px) {
     body {
-        background-color: rgb(255, 99, 71);
+        background-color: rgb(255,255,255);
     }
     .swiper {
         width: 100%;
